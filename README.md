@@ -9,6 +9,4 @@ middlewares中设置随机useragent中间件并添加代理ip（未使用）
 
 打开scrapy限速设置
 
-入口哔哩哔哩国创官网首页为入口
-
-
+入口哔哩哔哩国创官网首页为入口https://space.bilibili.com/98627270/fans/follow
